@@ -33,10 +33,25 @@ monopoly = {
         :four_pieces_owned => 200
       },
       :names => {
+<<<<<<< HEAD
         :reading_railroad => {},
         :pennsylvania_railroad => {},
         :b_and_o_railroad => {},
         :shortline_railroad =>{}
+=======
+        :reading_railroad => {
+          :mortgage_value => 100
+        },
+        :pennsylvana_railroad => {
+          :mortgage_value => 200
+        },
+        :b_and_o_railroad => {
+          :mortgage_value => 400
+        },
+        :shortline_railroad =>{
+          :mortgage_value =>800
+        }
+>>>>>>> 5784bf60309ec377c3c88fc219458672b3d756ed
       }
     }
   }
@@ -57,6 +72,7 @@ monopoly = {
         :four_pieces_owned => 200
       },
       :names => {
+<<<<<<< HEAD
         :reading_railroad => {
           :mortgage_value => 100
         },
@@ -69,6 +85,12 @@ monopoly = {
         :shortline_railroad =>{
           :mortgage_value => 800
         }
+=======
+        :reading_railroad => {},
+        :pennsylvana_railroad => {},
+        :b_and_o_railroad => {},
+        :shortline_railroad =>{}
+>>>>>>> 5784bf60309ec377c3c88fc219458672b3d756ed
       }
     }
   }
